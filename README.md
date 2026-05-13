@@ -16,6 +16,7 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 ## ✨ Features
 
 - Cycles through iconic FOSS project names in large ASCII art
+- Each banner displays in a random color
 - Lightweight — pure Python, no dependencies
 - Runs in any Unix/Linux terminal
 - Clears the screen between frames for a smooth animation effect
@@ -31,6 +32,11 @@ A lightweight terminal utility that cycles through animated ASCII art banners ce
 | TERMINAL |
 | GNU    |
 | FIREFOX |
+| VIM    |
+| GIT    |
+| DEBIAN |
+| RUST   |
+| ARCH   |
 
 ---
 
