@@ -51,4 +51,4 @@ This project is open source under the [GNU General Public License v3.0](https://
 **detectiveRight** ([@detectiveRight](https://github.com/detectiveRight) • [@bilalElGohary](https://github.com/bilalElGohary))
 
 *Forked and improved from another project. Special thanks to cat mimi 🐱*
-ذ
+
