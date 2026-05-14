@@ -1,96 +1,56 @@
+**✅ Updated Short & Improved README (Fork Mentioned)**
+
+```markdown
 # 🖥️ foss-banner
 
-A lightweight terminal utility that cycles through animated ASCII art banners celebrating the world of Free and Open Source Software (FOSS).
+**A lightweight forked terminal utility** that cycles through animated ASCII art banners celebrating **Free and Open Source Software (FOSS)**.
 
 ```
-██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
-██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
-██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝
-██║     ██║██║╚██╗██║██║   ██║ ██╔██╗
+██╗ ██╗███╗ ██╗██╗ ██╗██╗ ██╗
+██║ ██║████╗ ██║██║ ██║╚██╗██╔╝
+██║ ██║██╔██╗ ██║██║ ██║ ╚███╔╝
+██║ ██║██║╚██╗██║██║ ██║ ██╔██╗
 ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗
-╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
+╚══════╝╚═╝╚═╝ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝
 ```
-
----
 
 ## ✨ Features
+- Smoothly cycles through iconic FOSS project banners
+- Random vibrant colors for each banner
+- Lightweight — pure Python, zero dependencies
+- Works in any ANSI-compatible terminal
 
-- Cycles through iconic FOSS project names in large ASCII art
-- Each banner displays in a random color
-- Lightweight — pure Python, no dependencies
-- Runs in any Unix/Linux terminal
-- Clears the screen between frames for a smooth animation effect
+## 🖼️ Banners
+**Linux • C • Python • Bash • Terminal • GNU • Firefox • Vim • Git • Debian • Rust • Arch**
 
-## 🖼️ Banners Included
-
-| Banner |
-|--------|
-| LINUX  |
-| C      |
-| PYTHON |
-| BASH   |
-| TERMINAL |
-| GNU    |
-| FIREFOX |
-| VIM    |
-| GIT    |
-| DEBIAN |
-| RUST   |
-| ARCH   |
-
----
-
-## 🚀 Getting Started
+## 🚀 Quick Start
 
 ### Requirements
-
 - Python 3.x
-- A terminal that supports ANSI escape codes (most modern terminals do)
+- Terminal with ANSI support
 
 ### Installation
-
 ```bash
 git clone https://github.com/detectiveRight/foss-banner.git
 cd foss-banner
 ```
 
 ### Usage
-
 ```bash
-python foss-banner.py
+python3 foss-banner.py
 ```
 
-> ⚠️ **Note:** On some systems you may need to use `python3` instead of `python`:
-> ```bash
-> python3 foss-banner.py
-> ```
-
-Press `Ctrl+C` to stop.
+Press `Ctrl+C` to exit.
 
 ---
 
 ## 📄 License
-
-This project is licensed under the **[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)**.
-
----
+[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html)
 
 ## 👤 Author
+**detectiveRight** ([@detectiveRight](https://github.com/detectiveRight) • [@bilalElGohary](https://github.com/bilalElGohary))
 
-**detectiveRight**
+*Forked and improved from another project. Special thanks to cat mimi 🐱*
+```
 
-- GitHub: [@detectiveRight](https://github.com/detectiveRight)
-
----
-
-## 🐱 Special Thanks
-
-A special thanks to **mimi** — the legendary, the great, the gentle cat.
-
----
-
-## ©️ Copyright
-
-Copyright © 2026 detectiveRight <https://github.com/detectiveRight/>
-
-This project is open source under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+This version clearly mentions it's a fork while staying short and clean. Want me to adjust the fork wording or add a link to the original project?
