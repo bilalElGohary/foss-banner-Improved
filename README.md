@@ -20,7 +20,7 @@
 - Works in any ANSI-compatible terminal
 
 ## 🖼️ Banners
-**Linux • C • Python • Bash • Terminal • GNU • Firefox • Vim • Git • Debian • Rust • Arch**
+**Linux • C • Python • Bash • Terminal • GNU • Firefox • Vim • Git • Debian • Rust • Arch • ...**
 
 ## 🚀 Quick Start
 
