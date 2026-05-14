@@ -30,7 +30,7 @@
 
 ### Installation
 ```bash
-git clone [https://github.com/detectiveRight/foss-banner.git](https://github.com/bilalElGohary/foss-banner-Improved.git)
+git clone https://github.com/bilalElGohary/foss-banner-Improved.git
 cd foss-banner
 ```
 
