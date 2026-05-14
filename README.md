@@ -1,17 +1,16 @@
 **✅ Updated Short & Improved README (Fork Mentioned)**
 
-```markdown
-# 🖥️ foss-banner
+# 🖥️ foss-banner_Improved
 
 **A lightweight forked terminal utility** that cycles through animated ASCII art banners celebrating **Free and Open Source Software (FOSS)**.
 
 ```
-██╗ ██╗███╗ ██╗██╗ ██╗██╗ ██╗
-██║ ██║████╗ ██║██║ ██║╚██╗██╔╝
-██║ ██║██╔██╗ ██║██║ ██║ ╚███╔╝
-██║ ██║██║╚██╗██║██║ ██║ ██╔██╗
+██╗     ██╗███╗   ██╗██╗   ██╗██╗  ██╗
+██║     ██║████╗  ██║██║   ██║╚██╗██╔╝
+██║     ██║██╔██╗ ██║██║   ██║ ╚███╔╝
+██║     ██║██║╚██╗██║██║   ██║ ██╔██╗
 ███████╗██║██║ ╚████║╚██████╔╝██╔╝ ██╗
-╚══════╝╚═╝╚═╝ ╚═══╝ ╚═════╝ ╚═╝ ╚═╝
+╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝
 ```
 
 ## ✨ Features
@@ -51,6 +50,3 @@ Press `Ctrl+C` to exit.
 **detectiveRight** ([@detectiveRight](https://github.com/detectiveRight) • [@bilalElGohary](https://github.com/bilalElGohary))
 
 *Forked and improved from another project. Special thanks to cat mimi 🐱*
-```
-
-This version clearly mentions it's a fork while staying short and clean. Want me to adjust the fork wording or add a link to the original project?
