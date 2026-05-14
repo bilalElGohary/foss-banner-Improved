@@ -1,5 +1,3 @@
-**✅ Updated Short & Improved README (Fork Mentioned)**
-
 # 🖥️ foss-banner_Improved
 
 **A lightweight forked terminal utility** that cycles through animated ASCII art banners celebrating **Free and Open Source Software (FOSS)**.
